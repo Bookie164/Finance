@@ -88,3 +88,5 @@
     {% endif %}
   </body>
 </html>ok
+
+theme: jekyll-theme-merlot
