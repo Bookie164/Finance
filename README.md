@@ -3,6 +3,6 @@ I figured that I anyway have to study different reports,past incidents and happe
 Here you'll find any analysis and revelations from data crunching done on the Indian Economy(and it's comparison to other countries too!)
 <a href- "https://finance.pranavbahl.me/International Assignment.docx"> lol</a>
  <button onclick="window.location.href = 'https://pranavbahl.me/Poems.html';">Poems</button>
-  <button onclick="window.location.href = 'http://finance.pranavbahl.me/alrightyyyyy.html';">fine</button>
+  <button onclick="window.location.href = 'http://finance.pranavbahl.me/alright.html';">thheek</button>
 
 
